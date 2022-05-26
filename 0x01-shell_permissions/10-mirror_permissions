@@ -1,1 +1,1 @@
-#!/bin/bash
+#!/bin/bashchmod --reference=olleh hello
