@@ -1,2 +1,2 @@
 #!/bin/bash
-dir -aRn */
+dir -aRn *.
