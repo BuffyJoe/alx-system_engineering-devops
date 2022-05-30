@@ -1,2 +1,2 @@
 #!/bin/bash
-read -d '' -p list cat list | sort | uniq -u
+read -d '' -p list printf list | sort | uniq -u
